@@ -19,7 +19,7 @@ public class popups {
 	
 	
 	public  void setup() {
-		
+		//commented
 		driver = new ChromeDriver();
 		
 		driver.manage().window().maximize();
