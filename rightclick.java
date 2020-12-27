@@ -3,11 +3,7 @@ package framework;
 public class rightclick {
 
 	public static void main(String[] args) {
-		
-
-		
-		
-		//actions class
+    //actions class
 		//a.contextclick(webelement).build().perform();
 		
 		
